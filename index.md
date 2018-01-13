@@ -1,6 +1,3 @@
- 
-
-
 557 
 
 
@@ -31,5 +28,8 @@ stack size | depth | solutions found | current node | gurobi status
 (2978) 2 (0) [ 1, 4 ] 9 
 
 
-(5893) 3 (0) [ 1, 4, 5 ]  
+(5893) 3 (0) [ 1, 4, 5 ] 3 
+
+
+(5892) 3 (0) [ 1, 4, 6 ]  
 
