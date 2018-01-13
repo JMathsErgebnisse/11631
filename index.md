@@ -1,12 +1,3 @@
-26580 
-
-
-stack size | depth | solutions found | current node | gurobi status 
-
-
-(1) 0 (0) [  ]  
-
-
 (62) 1 (0) [ 1 ] 9 
 
 
@@ -31,5 +22,14 @@ stack size | depth | solutions found | current node | gurobi status
 (5890) 3 (0) [ 1, 4, 8 ] 3 
 
 
-(5889) 3 (0) [ 1, 4, 9 ]  
+(5889) 3 (0) [ 1, 4, 9 ] 3 
+
+
+(5888) 3 (0) [ 1, 4, 10 ] 3 
+
+
+(5887) 3 (0) [ 1, 4, 11 ] 3 
+
+
+(5886) 3 (0) [ 1, 4, 12 ]  
 
